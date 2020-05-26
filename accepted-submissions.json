@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590507540,
    "pos": 1,
-   "score": 47680,
+   "score": 47654,
    "taskStats": {
     "test": {
      "points": 500,
@@ -218,7 +218,7 @@
      "time": 1590507035
     },
     "test_3D": {
-     "points": 500,
+     "points": 474,
      "time": 1590507072
     },
     "test_3E": {
@@ -405,9 +405,9 @@
    "team": "teste"
   },
   {
-   "lastAccept": 1590508288,
+   "lastAccept": 1590508305,
    "pos": 2,
-   "score": 38180,
+   "score": 38654,
    "taskStats": {
     "test10": {
      "points": 474,
@@ -568,6 +568,10 @@
     "test_3C": {
      "points": 474,
      "time": 1590508272
+    },
+    "test_3D": {
+     "points": 474,
+     "time": 1590508305
     },
     "test_3E": {
      "points": 474,
