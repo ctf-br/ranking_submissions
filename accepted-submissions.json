@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590505283,
+   "lastAccept": 1590505394,
    "pos": 1,
-   "score": 1000,
+   "score": 1500,
    "taskStats": {
     "test_0A": {
      "points": 500,
@@ -12,6 +12,10 @@
     "test_4C": {
      "points": 500,
      "time": 1590505283
+    },
+    "test_50": {
+     "points": 500,
+     "time": 1590505394
     }
    },
    "team": "Teste 123"
@@ -32,6 +36,7 @@
  "tasks": [
   "test_0A",
   "test_4C",
-  "test4"
+  "test4",
+  "test_50"
  ]
 }
