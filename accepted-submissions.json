@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590505718,
+   "lastAccept": 1590505733,
    "pos": 1,
-   "score": 7474,
+   "score": 7948,
    "taskStats": {
     "test4": {
      "points": 474,
@@ -28,6 +28,10 @@
     "test_11": {
      "points": 500,
      "time": 1590505718
+    },
+    "test_1F": {
+     "points": 474,
+     "time": 1590505733
     },
     "test_32": {
      "points": 500,
@@ -71,7 +75,7 @@
   {
    "lastAccept": 1590505702,
    "pos": 2,
-   "score": 4974,
+   "score": 4948,
    "taskStats": {
     "test4": {
      "points": 474,
@@ -82,7 +86,7 @@
      "time": 1590505702
     },
     "test_1F": {
-     "points": 500,
+     "points": 474,
      "time": 1590505657
     },
     "test_20": {
