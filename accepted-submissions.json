@@ -1,13 +1,17 @@
 {
  "standings": [
   {
-   "lastAccept": 1590505964,
+   "lastAccept": 1590505979,
    "pos": 1,
-   "score": 10344,
+   "score": 10844,
    "taskStats": {
     "test4": {
      "points": 474,
      "time": 1590505376
+    },
+    "test_0D": {
+     "points": 500,
+     "time": 1590505979
     },
     "test_19": {
      "points": 500,
@@ -211,6 +215,7 @@
   "test_19",
   "test_2A",
   "test_48",
-  "test_3A"
+  "test_3A",
+  "test_0D"
  ]
 }
