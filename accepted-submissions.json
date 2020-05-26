@@ -65,13 +65,17 @@
    "team": "Teste 123"
   },
   {
-   "lastAccept": 1590505674,
+   "lastAccept": 1590505702,
    "pos": 2,
-   "score": 4474,
+   "score": 4974,
    "taskStats": {
     "test4": {
      "points": 474,
      "time": 1590505376
+    },
+    "test_1C": {
+     "points": 500,
+     "time": 1590505702
     },
     "test_1F": {
      "points": 500,
@@ -131,6 +135,7 @@
   "test_33",
   "test_1F",
   "test_57",
-  "test_0C"
+  "test_0C",
+  "test_1C"
  ]
 }
