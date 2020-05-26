@@ -1,8 +1,96 @@
 {
  "standings": [
   {
-   "lastAccept": 1590505846,
+   "lastAccept": 1590505951,
    "pos": 1,
+   "score": 9844,
+   "taskStats": {
+    "test4": {
+     "points": 474,
+     "time": 1590505376
+    },
+    "test_19": {
+     "points": 500,
+     "time": 1590505903
+    },
+    "test_1C": {
+     "points": 500,
+     "time": 1590505702
+    },
+    "test_1F": {
+     "points": 474,
+     "time": 1590505657
+    },
+    "test_20": {
+     "points": 500,
+     "time": 1590505620
+    },
+    "test_23": {
+     "points": 500,
+     "time": 1590505783
+    },
+    "test_25": {
+     "points": 500,
+     "time": 1590505861
+    },
+    "test_2A": {
+     "points": 500,
+     "time": 1590505920
+    },
+    "test_34": {
+     "points": 474,
+     "time": 1590505938
+    },
+    "test_35": {
+     "points": 500,
+     "time": 1590505890
+    },
+    "test_48": {
+     "points": 500,
+     "time": 1590505951
+    },
+    "test_4A": {
+     "points": 474,
+     "time": 1590505832
+    },
+    "test_54": {
+     "points": 500,
+     "time": 1590505470
+    },
+    "test_57": {
+     "points": 474,
+     "time": 1590505674
+    },
+    "test_58": {
+     "points": 474,
+     "time": 1590505818
+    },
+    "test_63": {
+     "points": 500,
+     "time": 1590505484
+    },
+    "test_65": {
+     "points": 500,
+     "time": 1590505516
+    },
+    "test_66": {
+     "points": 500,
+     "time": 1590505875
+    },
+    "test_68": {
+     "points": 500,
+     "time": 1590505410
+    },
+    "test_6B": {
+     "points": 500,
+     "time": 1590505454
+    }
+   },
+   "team": "teste"
+  },
+  {
+   "lastAccept": 1590505846,
+   "pos": 2,
    "score": 9344,
    "taskStats": {
     "test4": {
@@ -83,90 +171,6 @@
     }
    },
    "team": "Teste 123"
-  },
-  {
-   "lastAccept": 1590505938,
-   "pos": 2,
-   "score": 9344,
-   "taskStats": {
-    "test4": {
-     "points": 474,
-     "time": 1590505376
-    },
-    "test_19": {
-     "points": 500,
-     "time": 1590505903
-    },
-    "test_1C": {
-     "points": 500,
-     "time": 1590505702
-    },
-    "test_1F": {
-     "points": 474,
-     "time": 1590505657
-    },
-    "test_20": {
-     "points": 500,
-     "time": 1590505620
-    },
-    "test_23": {
-     "points": 500,
-     "time": 1590505783
-    },
-    "test_25": {
-     "points": 500,
-     "time": 1590505861
-    },
-    "test_2A": {
-     "points": 500,
-     "time": 1590505920
-    },
-    "test_34": {
-     "points": 474,
-     "time": 1590505938
-    },
-    "test_35": {
-     "points": 500,
-     "time": 1590505890
-    },
-    "test_4A": {
-     "points": 474,
-     "time": 1590505832
-    },
-    "test_54": {
-     "points": 500,
-     "time": 1590505470
-    },
-    "test_57": {
-     "points": 474,
-     "time": 1590505674
-    },
-    "test_58": {
-     "points": 474,
-     "time": 1590505818
-    },
-    "test_63": {
-     "points": 500,
-     "time": 1590505484
-    },
-    "test_65": {
-     "points": 500,
-     "time": 1590505516
-    },
-    "test_66": {
-     "points": 500,
-     "time": 1590505875
-    },
-    "test_68": {
-     "points": 500,
-     "time": 1590505410
-    },
-    "test_6B": {
-     "points": 500,
-     "time": 1590505454
-    }
-   },
-   "team": "teste"
   }
  ],
  "tasks": [
@@ -201,6 +205,7 @@
   "test_66",
   "test_35",
   "test_19",
-  "test_2A"
+  "test_2A",
+  "test_48"
  ]
 }
