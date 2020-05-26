@@ -405,9 +405,9 @@
    "team": "teste"
   },
   {
-   "lastAccept": 1590507556,
+   "lastAccept": 1590507572,
    "pos": 2,
-   "score": 16824,
+   "score": 17324,
    "taskStats": {
     "test4": {
      "points": 474,
@@ -432,6 +432,10 @@
     "test_0D": {
      "points": 474,
      "time": 1590507209
+    },
+    "test_0F": {
+     "points": 500,
+     "time": 1590507572
     },
     "test_11": {
      "points": 500,
@@ -661,6 +665,7 @@
   "test_1E",
   "test_31",
   "test_42",
-  "test_13"
+  "test_13",
+  "test_0F"
  ]
 }
