@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590507301,
+   "lastAccept": 1590507317,
    "pos": 1,
-   "score": 43428,
+   "score": 43928,
    "taskStats": {
     "test": {
      "points": 500,
@@ -60,6 +60,10 @@
     "test_14": {
      "points": 500,
      "time": 1590506940
+    },
+    "test_16": {
+     "points": 500,
+     "time": 1590507317
     },
     "test_17": {
      "points": 500,
@@ -585,6 +589,7 @@
   "test_6C",
   "test6",
   "test7",
-  "test9"
+  "test9",
+  "test_16"
  ]
 }
