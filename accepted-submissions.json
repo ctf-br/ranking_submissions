@@ -1,413 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1590507540,
+   "lastAccept": 1590508623,
    "pos": 1,
-   "score": 47186,
-   "taskStats": {
-    "test": {
-     "points": 474,
-     "time": 1590507088
-    },
-    "test10": {
-     "points": 474,
-     "time": 1590507118
-    },
-    "test2": {
-     "points": 474,
-     "time": 1590507149
-    },
-    "test3": {
-     "points": 500,
-     "time": 1590507180
-    },
-    "test4": {
-     "points": 474,
-     "time": 1590505376
-    },
-    "test5": {
-     "points": 474,
-     "time": 1590507195
-    },
-    "test6": {
-     "points": 500,
-     "time": 1590507240
-    },
-    "test7": {
-     "points": 474,
-     "time": 1590507255
-    },
-    "test8": {
-     "points": 474,
-     "time": 1590507286
-    },
-    "test9": {
-     "points": 500,
-     "time": 1590507301
-    },
-    "test_0B": {
-     "points": 474,
-     "time": 1590506100
-    },
-    "test_0D": {
-     "points": 474,
-     "time": 1590505979
-    },
-    "test_0E": {
-     "points": 474,
-     "time": 1590507393
-    },
-    "test_12": {
-     "points": 474,
-     "time": 1590506820
-    },
-    "test_13": {
-     "points": 474,
-     "time": 1590507540
-    },
-    "test_14": {
-     "points": 474,
-     "time": 1590506940
-    },
-    "test_15": {
-     "points": 500,
-     "time": 1590507346
-    },
-    "test_16": {
-     "points": 474,
-     "time": 1590507317
-    },
-    "test_17": {
-     "points": 474,
-     "time": 1590506116
-    },
-    "test_18": {
-     "points": 474,
-     "time": 1590506687
-    },
-    "test_19": {
-     "points": 474,
-     "time": 1590505903
-    },
-    "test_1A": {
-     "points": 474,
-     "time": 1590506672
-    },
-    "test_1B": {
-     "points": 474,
-     "time": 1590505994
-    },
-    "test_1C": {
-     "points": 500,
-     "time": 1590505702
-    },
-    "test_1D": {
-     "points": 474,
-     "time": 1590506053
-    },
-    "test_1E": {
-     "points": 474,
-     "time": 1590507440
-    },
-    "test_1F": {
-     "points": 474,
-     "time": 1590505657
-    },
-    "test_20": {
-     "points": 474,
-     "time": 1590505620
-    },
-    "test_21": {
-     "points": 474,
-     "time": 1590506038
-    },
-    "test_22": {
-     "points": 474,
-     "time": 1590506969
-    },
-    "test_23": {
-     "points": 500,
-     "time": 1590505783
-    },
-    "test_24": {
-     "points": 474,
-     "time": 1590506195
-    },
-    "test_25": {
-     "points": 474,
-     "time": 1590505861
-    },
-    "test_26": {
-     "points": 474,
-     "time": 1590506263
-    },
-    "test_27": {
-     "points": 474,
-     "time": 1590506386
-    },
-    "test_28": {
-     "points": 474,
-     "time": 1590506432
-    },
-    "test_29": {
-     "points": 474,
-     "time": 1590506163
-    },
-    "test_2A": {
-     "points": 474,
-     "time": 1590505920
-    },
-    "test_2C": {
-     "points": 474,
-     "time": 1590506495
-    },
-    "test_2D": {
-     "points": 474,
-     "time": 1590506908
-    },
-    "test_2E": {
-     "points": 474,
-     "time": 1590506618
-    },
-    "test_2F": {
-     "points": 474,
-     "time": 1590507424
-    },
-    "test_30": {
-     "points": 474,
-     "time": 1590506853
-    },
-    "test_31": {
-     "points": 500,
-     "time": 1590507470
-    },
-    "test_34": {
-     "points": 474,
-     "time": 1590505938
-    },
-    "test_35": {
-     "points": 474,
-     "time": 1590505890
-    },
-    "test_36": {
-     "points": 474,
-     "time": 1590506772
-    },
-    "test_37": {
-     "points": 474,
-     "time": 1590506655
-    },
-    "test_38": {
-     "points": 474,
-     "time": 1590506804
-    },
-    "test_39": {
-     "points": 474,
-     "time": 1590506838
-    },
-    "test_3A": {
-     "points": 474,
-     "time": 1590505964
-    },
-    "test_3B": {
-     "points": 474,
-     "time": 1590506367
-    },
-    "test_3C": {
-     "points": 474,
-     "time": 1590507035
-    },
-    "test_3D": {
-     "points": 474,
-     "time": 1590507072
-    },
-    "test_3E": {
-     "points": 474,
-     "time": 1590506348
-    },
-    "test_3F": {
-     "points": 474,
-     "time": 1590506892
-    },
-    "test_40": {
-     "points": 474,
-     "time": 1590506868
-    },
-    "test_41": {
-     "points": 474,
-     "time": 1590506071
-    },
-    "test_42": {
-     "points": 474,
-     "time": 1590507509
-    },
-    "test_43": {
-     "points": 474,
-     "time": 1590506550
-    },
-    "test_44": {
-     "points": 500,
-     "time": 1590506532
-    },
-    "test_45": {
-     "points": 474,
-     "time": 1590506452
-    },
-    "test_46": {
-     "points": 474,
-     "time": 1590506575
-    },
-    "test_48": {
-     "points": 474,
-     "time": 1590505951
-    },
-    "test_49": {
-     "points": 474,
-     "time": 1590506717
-    },
-    "test_4A": {
-     "points": 474,
-     "time": 1590505832
-    },
-    "test_4B": {
-     "points": 474,
-     "time": 1590506009
-    },
-    "test_4D": {
-     "points": 474,
-     "time": 1590507362
-    },
-    "test_4E": {
-     "points": 474,
-     "time": 1590506148
-    },
-    "test_4F": {
-     "points": 474,
-     "time": 1590506310
-    },
-    "test_50": {
-     "points": 474,
-     "time": 1590506024
-    },
-    "test_51": {
-     "points": 474,
-     "time": 1590506475
-    },
-    "test_52": {
-     "points": 474,
-     "time": 1590506755
-    },
-    "test_53": {
-     "points": 474,
-     "time": 1590506637
-    },
-    "test_54": {
-     "points": 474,
-     "time": 1590505470
-    },
-    "test_55": {
-     "points": 474,
-     "time": 1590506230
-    },
-    "test_56": {
-     "points": 474,
-     "time": 1590506214
-    },
-    "test_57": {
-     "points": 474,
-     "time": 1590505674
-    },
-    "test_58": {
-     "points": 474,
-     "time": 1590505818
-    },
-    "test_5A": {
-     "points": 474,
-     "time": 1590506788
-    },
-    "test_5B": {
-     "points": 474,
-     "time": 1590506738
-    },
-    "test_5C": {
-     "points": 500,
-     "time": 1590506131
-    },
-    "test_5D": {
-     "points": 500,
-     "time": 1590507408
-    },
-    "test_5E": {
-     "points": 474,
-     "time": 1590506594
-    },
-    "test_5F": {
-     "points": 474,
-     "time": 1590507333
-    },
-    "test_60": {
-     "points": 474,
-     "time": 1590507055
-    },
-    "test_61": {
-     "points": 474,
-     "time": 1590506245
-    },
-    "test_62": {
-     "points": 474,
-     "time": 1590506415
-    },
-    "test_63": {
-     "points": 474,
-     "time": 1590505484
-    },
-    "test_64": {
-     "points": 474,
-     "time": 1590506280
-    },
-    "test_65": {
-     "points": 474,
-     "time": 1590505516
-    },
-    "test_66": {
-     "points": 474,
-     "time": 1590505875
-    },
-    "test_67": {
-     "points": 474,
-     "time": 1590506328
-    },
-    "test_68": {
-     "points": 474,
-     "time": 1590505410
-    },
-    "test_69": {
-     "points": 474,
-     "time": 1590506702
-    },
-    "test_6A": {
-     "points": 474,
-     "time": 1590506178
-    },
-    "test_6B": {
-     "points": 474,
-     "time": 1590505454
-    },
-    "test_6D": {
-     "points": 474,
-     "time": 1590506085
-    },
-    "test_6E": {
-     "points": 474,
-     "time": 1590506513
-    }
-   },
-   "team": "teste"
-  },
-  {
-   "lastAccept": 1590508606,
-   "pos": 2,
-   "score": 47186,
+   "score": 47660,
    "taskStats": {
     "test": {
      "points": 474,
@@ -420,6 +16,10 @@
     "test2": {
      "points": 474,
      "time": 1590508321
+    },
+    "test3": {
+     "points": 474,
+     "time": 1590508623
     },
     "test4": {
      "points": 474,
@@ -807,6 +407,410 @@
     }
    },
    "team": "Teste 123"
+  },
+  {
+   "lastAccept": 1590507540,
+   "pos": 2,
+   "score": 47160,
+   "taskStats": {
+    "test": {
+     "points": 474,
+     "time": 1590507088
+    },
+    "test10": {
+     "points": 474,
+     "time": 1590507118
+    },
+    "test2": {
+     "points": 474,
+     "time": 1590507149
+    },
+    "test3": {
+     "points": 474,
+     "time": 1590507180
+    },
+    "test4": {
+     "points": 474,
+     "time": 1590505376
+    },
+    "test5": {
+     "points": 474,
+     "time": 1590507195
+    },
+    "test6": {
+     "points": 500,
+     "time": 1590507240
+    },
+    "test7": {
+     "points": 474,
+     "time": 1590507255
+    },
+    "test8": {
+     "points": 474,
+     "time": 1590507286
+    },
+    "test9": {
+     "points": 500,
+     "time": 1590507301
+    },
+    "test_0B": {
+     "points": 474,
+     "time": 1590506100
+    },
+    "test_0D": {
+     "points": 474,
+     "time": 1590505979
+    },
+    "test_0E": {
+     "points": 474,
+     "time": 1590507393
+    },
+    "test_12": {
+     "points": 474,
+     "time": 1590506820
+    },
+    "test_13": {
+     "points": 474,
+     "time": 1590507540
+    },
+    "test_14": {
+     "points": 474,
+     "time": 1590506940
+    },
+    "test_15": {
+     "points": 500,
+     "time": 1590507346
+    },
+    "test_16": {
+     "points": 474,
+     "time": 1590507317
+    },
+    "test_17": {
+     "points": 474,
+     "time": 1590506116
+    },
+    "test_18": {
+     "points": 474,
+     "time": 1590506687
+    },
+    "test_19": {
+     "points": 474,
+     "time": 1590505903
+    },
+    "test_1A": {
+     "points": 474,
+     "time": 1590506672
+    },
+    "test_1B": {
+     "points": 474,
+     "time": 1590505994
+    },
+    "test_1C": {
+     "points": 500,
+     "time": 1590505702
+    },
+    "test_1D": {
+     "points": 474,
+     "time": 1590506053
+    },
+    "test_1E": {
+     "points": 474,
+     "time": 1590507440
+    },
+    "test_1F": {
+     "points": 474,
+     "time": 1590505657
+    },
+    "test_20": {
+     "points": 474,
+     "time": 1590505620
+    },
+    "test_21": {
+     "points": 474,
+     "time": 1590506038
+    },
+    "test_22": {
+     "points": 474,
+     "time": 1590506969
+    },
+    "test_23": {
+     "points": 500,
+     "time": 1590505783
+    },
+    "test_24": {
+     "points": 474,
+     "time": 1590506195
+    },
+    "test_25": {
+     "points": 474,
+     "time": 1590505861
+    },
+    "test_26": {
+     "points": 474,
+     "time": 1590506263
+    },
+    "test_27": {
+     "points": 474,
+     "time": 1590506386
+    },
+    "test_28": {
+     "points": 474,
+     "time": 1590506432
+    },
+    "test_29": {
+     "points": 474,
+     "time": 1590506163
+    },
+    "test_2A": {
+     "points": 474,
+     "time": 1590505920
+    },
+    "test_2C": {
+     "points": 474,
+     "time": 1590506495
+    },
+    "test_2D": {
+     "points": 474,
+     "time": 1590506908
+    },
+    "test_2E": {
+     "points": 474,
+     "time": 1590506618
+    },
+    "test_2F": {
+     "points": 474,
+     "time": 1590507424
+    },
+    "test_30": {
+     "points": 474,
+     "time": 1590506853
+    },
+    "test_31": {
+     "points": 500,
+     "time": 1590507470
+    },
+    "test_34": {
+     "points": 474,
+     "time": 1590505938
+    },
+    "test_35": {
+     "points": 474,
+     "time": 1590505890
+    },
+    "test_36": {
+     "points": 474,
+     "time": 1590506772
+    },
+    "test_37": {
+     "points": 474,
+     "time": 1590506655
+    },
+    "test_38": {
+     "points": 474,
+     "time": 1590506804
+    },
+    "test_39": {
+     "points": 474,
+     "time": 1590506838
+    },
+    "test_3A": {
+     "points": 474,
+     "time": 1590505964
+    },
+    "test_3B": {
+     "points": 474,
+     "time": 1590506367
+    },
+    "test_3C": {
+     "points": 474,
+     "time": 1590507035
+    },
+    "test_3D": {
+     "points": 474,
+     "time": 1590507072
+    },
+    "test_3E": {
+     "points": 474,
+     "time": 1590506348
+    },
+    "test_3F": {
+     "points": 474,
+     "time": 1590506892
+    },
+    "test_40": {
+     "points": 474,
+     "time": 1590506868
+    },
+    "test_41": {
+     "points": 474,
+     "time": 1590506071
+    },
+    "test_42": {
+     "points": 474,
+     "time": 1590507509
+    },
+    "test_43": {
+     "points": 474,
+     "time": 1590506550
+    },
+    "test_44": {
+     "points": 500,
+     "time": 1590506532
+    },
+    "test_45": {
+     "points": 474,
+     "time": 1590506452
+    },
+    "test_46": {
+     "points": 474,
+     "time": 1590506575
+    },
+    "test_48": {
+     "points": 474,
+     "time": 1590505951
+    },
+    "test_49": {
+     "points": 474,
+     "time": 1590506717
+    },
+    "test_4A": {
+     "points": 474,
+     "time": 1590505832
+    },
+    "test_4B": {
+     "points": 474,
+     "time": 1590506009
+    },
+    "test_4D": {
+     "points": 474,
+     "time": 1590507362
+    },
+    "test_4E": {
+     "points": 474,
+     "time": 1590506148
+    },
+    "test_4F": {
+     "points": 474,
+     "time": 1590506310
+    },
+    "test_50": {
+     "points": 474,
+     "time": 1590506024
+    },
+    "test_51": {
+     "points": 474,
+     "time": 1590506475
+    },
+    "test_52": {
+     "points": 474,
+     "time": 1590506755
+    },
+    "test_53": {
+     "points": 474,
+     "time": 1590506637
+    },
+    "test_54": {
+     "points": 474,
+     "time": 1590505470
+    },
+    "test_55": {
+     "points": 474,
+     "time": 1590506230
+    },
+    "test_56": {
+     "points": 474,
+     "time": 1590506214
+    },
+    "test_57": {
+     "points": 474,
+     "time": 1590505674
+    },
+    "test_58": {
+     "points": 474,
+     "time": 1590505818
+    },
+    "test_5A": {
+     "points": 474,
+     "time": 1590506788
+    },
+    "test_5B": {
+     "points": 474,
+     "time": 1590506738
+    },
+    "test_5C": {
+     "points": 500,
+     "time": 1590506131
+    },
+    "test_5D": {
+     "points": 500,
+     "time": 1590507408
+    },
+    "test_5E": {
+     "points": 474,
+     "time": 1590506594
+    },
+    "test_5F": {
+     "points": 474,
+     "time": 1590507333
+    },
+    "test_60": {
+     "points": 474,
+     "time": 1590507055
+    },
+    "test_61": {
+     "points": 474,
+     "time": 1590506245
+    },
+    "test_62": {
+     "points": 474,
+     "time": 1590506415
+    },
+    "test_63": {
+     "points": 474,
+     "time": 1590505484
+    },
+    "test_64": {
+     "points": 474,
+     "time": 1590506280
+    },
+    "test_65": {
+     "points": 474,
+     "time": 1590505516
+    },
+    "test_66": {
+     "points": 474,
+     "time": 1590505875
+    },
+    "test_67": {
+     "points": 474,
+     "time": 1590506328
+    },
+    "test_68": {
+     "points": 474,
+     "time": 1590505410
+    },
+    "test_69": {
+     "points": 474,
+     "time": 1590506702
+    },
+    "test_6A": {
+     "points": 474,
+     "time": 1590506178
+    },
+    "test_6B": {
+     "points": 474,
+     "time": 1590505454
+    },
+    "test_6D": {
+     "points": 474,
+     "time": 1590506085
+    },
+    "test_6E": {
+     "points": 474,
+     "time": 1590506513
+    }
+   },
+   "team": "teste"
   }
  ],
  "tasks": [
