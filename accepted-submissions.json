@@ -3,7 +3,7 @@
   {
    "lastAccept": 1590606729,
    "pos": 1,
-   "score": 52140,
+   "score": 52119,
    "taskStats": {
     "test": {
      "points": 474,
@@ -46,7 +46,7 @@
      "time": 1590508655
     },
     "test_0A": {
-     "points": 474,
+     "points": 453,
      "time": 1590505147
     },
     "test_0B": {
@@ -451,7 +451,7 @@
   {
    "lastAccept": 1590609877,
    "pos": 2,
-   "score": 52140,
+   "score": 52119,
    "taskStats": {
     "test": {
      "points": 474,
@@ -494,7 +494,7 @@
      "time": 1590507301
     },
     "test_0A": {
-     "points": 474,
+     "points": 453,
      "time": 1590508718
     },
     "test_0B": {
@@ -895,6 +895,18 @@
     }
    },
    "team": "teste"
+  },
+  {
+   "lastAccept": 1590761350,
+   "pos": 3,
+   "score": 453,
+   "taskStats": {
+    "test_0A": {
+     "points": 453,
+     "time": 1590761350
+    }
+   },
+   "team": "Oompa-Loompas"
   }
  ],
  "tasks": [
